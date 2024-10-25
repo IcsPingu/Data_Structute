@@ -1,3 +1,4 @@
+//Alunos: João Gonçalves Matricula: 202311140017/ Thiago Ribeiro Matricula: 202311140009
 #include <iostream>
 #include "Quick.h"
 #include <cstdlib>
